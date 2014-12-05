@@ -20,7 +20,7 @@ to the require section of your composer.json
 
 ## Usage
 
-Register a new site https://www.google.com/recaptcha/admin(https://www.google.com/recaptcha/admin).
+[Register](https://www.google.com/recaptcha/admin) a new site.
 
 Add captcha attribute to model:
 
