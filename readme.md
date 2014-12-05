@@ -49,9 +49,8 @@ Add field to view:
 ]) ?>
 ```
 
-See [clientOptions](https://developers.google.com/recaptcha/docs/display)
-[reCAPTCHA documentation](https://developers.google.com/recaptcha)
-
+## Info
+See [reCAPTCHA documentation](https://developers.google.com/recaptcha)
 
 ## Author
 
